@@ -35,6 +35,7 @@
     height: 100%;
     width: 0%;
     background-color: bisque;
+    color: red;
   }
 
 </style>

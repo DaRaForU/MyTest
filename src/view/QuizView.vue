@@ -44,8 +44,4 @@
 </template>
 
 <style scoped>
-  a{
-    background-color: antiquewhite;
-  }
-
 </style>
