@@ -43,4 +43,7 @@
   .card .card-text h2{
     font-weight: bold;
   }
+  h1{
+    font-size: 10px;
+  }
 </style>
