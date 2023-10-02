@@ -45,6 +45,7 @@
 
 <style scoped>
   a{
-    color: red
+    color: red;
+    font-size: 10px;
   }
 </style>
