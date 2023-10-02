@@ -13,6 +13,9 @@
     max-width: 1000px;
     margin: 0 auto; 
   }
+  button{
+    color: red
+  }
 </style>
 
 <!-- 5:44 -->
