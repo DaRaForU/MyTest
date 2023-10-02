@@ -44,5 +44,7 @@
 </template>
 
 <style scoped>
-
+  a{
+    color: red
+  }
 </style>
